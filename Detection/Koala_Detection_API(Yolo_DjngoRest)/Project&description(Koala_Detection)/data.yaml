@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Koala']
+
+roboflow:
+  workspace: namespace-7sjqd
+  project: koala_detection
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/namespace-7sjqd/koala_detection/1
