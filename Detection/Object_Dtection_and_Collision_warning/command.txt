@@ -1,0 +1,1 @@
+python cal.py --path ex1.mp4
